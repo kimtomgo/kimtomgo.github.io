@@ -1,0 +1,2 @@
+# kimtomgo.github.io
+blog
