@@ -101,7 +101,7 @@ theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: git@github.com:kimtomgo/kimtomgo.github.io.git
-  branch: release
+# deploy:
+#   type: git
+#   repo: git@github.com:kimtomgo/kimtomgo.github.io.git
+#   branch: release
